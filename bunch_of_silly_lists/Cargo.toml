@@ -1,0 +1,6 @@
+[package]
+name = "bunch_of_silly_lists"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]

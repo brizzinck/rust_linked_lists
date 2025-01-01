@@ -1,0 +1,17 @@
+[package]
+name = "rust_linked_lists"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[workspace]
+members = [
+    "bad_safe_deque",
+    "bad_stack",
+    "bunch_of_silly_lists",
+    "ok_stack",
+    "ok_unsafe_queue",
+    "persistent_stack",
+    "production_unsafe_deque",
+]
